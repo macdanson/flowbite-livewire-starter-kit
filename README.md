@@ -1,3 +1,3 @@
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
+## Laravel + Flowbite+ Livewire Starter Kit
+# Introduction
+Our [Laravel](https://laravel.com/) + [Flowbite](https://flowbite.com/docs/getting-started/quickstart/) + [Livewire](https://livewire.laravel.com/docs/quickstart) starter kit provides a robust, modern starting point for building Laravel applications with a Livewire frontend using Flowbite - Tailwind CSS component library.
