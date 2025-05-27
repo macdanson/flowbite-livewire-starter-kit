@@ -40,7 +40,7 @@
                     <input type="password" wire:model="password_confirmation" id="password" placeholder="••••••••" class="bg-gray-50 border border-gray-300 rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5" required="">
                 </div>
 
-                <button type="submit" class="w-full text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Create account</button>
+                <x-button loadingTarget="register">Create account</x-button>
 
                 @if(Route::has('login'))
                     <div class="flex items-center justify-center">
