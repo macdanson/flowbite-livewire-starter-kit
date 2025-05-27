@@ -40,7 +40,7 @@
                     </div>
                 @endif
 
-                <button type="submit" class="w-full text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Sign in</button>
+                <x-button variant="blue" loadingTarget="login">Create account</x-button>
 
                 @if(Route::has('register'))
                     <div class="flex items-center justify-center">
